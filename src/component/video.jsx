@@ -6,12 +6,12 @@ const MyClip = [
     {
         "title": "Video",
         "desc": "Description for video 1",
-        "url": "https://youtu.be/DKoFH6NPkSM?si=ZxcIwEeRBIVj-h_y"
+        "url": "https://youtu.be/sxkmlZkp6ag?si=8wXt7RdBWMYSMcCt"
     },
     {
         "title": "Video 1",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus facilisis tortor vel risus aliquam maximus. Nunc cursus tristique nisi faucibus pretium. Vivamus consectetur metus eu ex mattis, in maximus nibh vehicula. Cras sodales quam sit amet porta faucibus. Suspendisse aliquet lacus et luctus iaculis. Pellentesque accumsan tortor nec lacus iaculis, vel tempus nulla volutpat. Praesent interdum ac tellus eu blandit. Vestibulum id odio luctus velit aliquam lacinia eget sed justo.",
-        "url": "https://youtu.be/L_Xizo9HtaM?si=3OUIWnuy4dtDNbt2"
+        "url": "https://youtu.be/xmyZHot0Lqc?si=oP6k-x--o-h28MbM"
     },
     {
         "title": "Video 2",
