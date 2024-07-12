@@ -16,17 +16,17 @@ const MyClip = [
     {
         "title": "Video 2",
         "desc": "Donec sit amet velit pulvinar, ultricies eros vel, varius nibh. Praesent euismod ligula eu magna bibendum consequat. In varius sed justo sit amet condimentum. Aenean scelerisque augue mattis sapien posuere malesuada. Etiam vel dolor diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus consectetur gravida volutpat.",
-        "url": "https://youtu.be/6s16kzM5A80?si=cVMxR-Wm161YGzSr"
+        "url": "https://youtu.be/OUFuaMj6z-w?si=R-xT8vIn4hYm9oad"
     },
     {
         "title": "Video 3",
         "desc": "Praesent tincidunt vulputate mauris, sed porta diam vestibulum id. Sed ornare vel ipsum vel tincidunt. Aenean turpis lorem, lobortis non quam eget, facilisis venenatis metus. Maecenas elit sapien, commodo ut varius eu, porta in nibh. Curabitur porta nunc id justo vestibulum dictum. Suspendisse ornare pellentesque semper. Curabitur ut lorem tincidunt, viverra elit eu, luctus diam.",
-        "url": "https://youtu.be/aoFeasRsiyk?si=8D4jlVWWaZtVq_z1"
+        "url": "https://youtu.be/N6SQ9QoSjCI?si=6ILGD6X_NKwuvwFB"
     },
     {
         "title": "Video 4",
         "desc": "Proin elementum venenatis nisl, a lacinia nisi vulputate eu. Suspendisse accumsan aliquam luctus. Aenean efficitur euismod enim, at efficitur felis fringilla eu. Duis placerat nulla id orci pellentesque, vel ullamcorper ante blandit. Donec dignissim nulla id metus tempus fringilla. Praesent efficitur dolor erat. Cras odio neque, fringilla vel augue at, blandit dictum ante.",
-        "url": "https://youtu.be/yFSONXdU0eg?si=mDSz4iCXGJ4_9_gs"
+        "url": "https://youtu.be/jK2aIUmmdP4?si=-mJMlFI0TlOxyZWm"
     }
 ]
 
